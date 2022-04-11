@@ -40,6 +40,24 @@ O projeto foi desenvolvido com ReactJS.
   </tr>
 </table>
 
+## :closed_book: Necessidades ##
+
+Depois de iniciar :checkered_flag:, você precisa ter o  [Git](https://git-scm.com) e o [Node](https://nodejs.org/en/) instalados.
+
+## :checkered_flag: Iniciar ##
+
+```bash
+# Clonar o projeto
+$ git clone https://github.com/jguilhermesl/project-repos
+# Acesse
+$ cd project-repos
+# Instalar dependências
+$ yarn or npm 
+# Rodar o projeto
+$ yarn start
+# O servidor será inicializado em <http://localhost:3000>
+```
+
 ## 👨‍💻 Tecnologias
 Tecnologias usadas no projeto:
 
